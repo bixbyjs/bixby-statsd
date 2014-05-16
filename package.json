@@ -24,6 +24,7 @@
   ],
   "main": "./lib",
   "dependencies": {
+    "node-statsd": "0.0.7"
   },
   "devDependencies": {
     "mocha": "1.x.x",
